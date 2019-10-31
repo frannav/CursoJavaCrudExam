@@ -1,4 +1,4 @@
-//Examen curso java telefonica @Fran Navarro Martinez
+//Curso java telefonica @frannav
 
 public class ListaPersonas {
     
